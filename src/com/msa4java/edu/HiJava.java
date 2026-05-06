@@ -18,5 +18,7 @@ public class HiJava {
 
         System.out.println((byte)(max + 1));
         System.out.println((byte)(min - 1));
+
+
     }
 }
