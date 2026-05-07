@@ -1,4 +1,4 @@
-package com.msa4java.edu.oop;
+package com.msa4java.edu.oop.basic;
 // class : 객체를 정의하기 위한 최소 단위
 public class Whale {
    // Class는 Field와 Method로 구성되어 있다.

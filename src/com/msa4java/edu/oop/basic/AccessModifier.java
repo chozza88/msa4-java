@@ -1,4 +1,4 @@
-package com.msa4java.edu.oop;
+package com.msa4java.edu.oop.basic;
 
 public class AccessModifier {
     // 접근 제어 지시자 : 외부에서의 접근을 통제하기 위해 필드 or 메서드 앞에 작성
@@ -8,3 +8,4 @@ public class AccessModifier {
     int numDefault = 4; // 같은 패키지에 소속된 클래스에서 접근 가능
 
 }
+
