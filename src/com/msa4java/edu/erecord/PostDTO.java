@@ -1,0 +1,21 @@
+package com.msa4java.edu.erecord;
+
+public class PostDTO {
+    // 유저로부터 받아오는 값들을 이런식으로 만듦.
+    // 변경을 막음.
+    private final String title;
+    private final String content;
+
+    public PostDTO(String title, String content){
+        this.title = title;
+        this.content = content;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getContent() {
+        return content;
+    }
+}
